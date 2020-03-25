@@ -1,2 +1,2 @@
-# GaussianFitting
-Script to fit (TGA) data by means of Gaussian functions
+# TGA data fitting
+Script to fit TGA data 
